@@ -1,2 +1,2 @@
 # Stacked_Ensemble_Classifier_GEE
-This code is related to the below paper. If you are using the developed code, please cite this paper:
+This code is related to a paper which is under review. More details will be added as soon as the paper is published.
